@@ -3,7 +3,7 @@ Algoritmo pseudocodigoEjercicio5
 	hombre=0
 	mujer=0
 	Definir sexo Como entero;
-	Escribir "Ingrese cauntas personas va a ingresar"
+	Escribir "Ingrese cuantas personas va a ingresar"
 	leer personas;
 	Para i=1 hasta personas Con Paso  1 Hacer
 		Escribir i,". Ingrese edad"
