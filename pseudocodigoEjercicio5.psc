@@ -13,7 +13,7 @@ Algoritmo pseudocodigoEjercicio5
 		si edad>17 y sexo=1 Entonces
 			mujer=mujer+1
 		SiNo
-			si edad<17 y sexo=2 Entonces
+			si edad<18 y sexo=2 Entonces
 				hombre=hombre+1
 			FinSi
 			
